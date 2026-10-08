@@ -20,4 +20,4 @@ Fixes to **[eSpeak NG](https://github.com/espeak-ng/espeak-ng)** for Indian and 
 
 ### Elsewhere
 
-[Website](https://www.rameesmuhammed.com) · [LinkedIn](https://www.linkedin.com/in/ramees-muhammed-8092a879/) · [RedZoc](https://www.redzoc.com)
+[Website](https://www.rameesmuhammed.com) · [LinkedIn](https://www.linkedin.com/in/rameeszone/) · [RedZoc](https://www.redzoc.com)
