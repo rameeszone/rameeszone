@@ -1,6 +1,6 @@
 # Ramees Muhammed
 
-Software architect in Kochi, India. I design and build backend, cloud and AI systems, and I founded **[RedZoc](https://www.redzoc.com)**, which makes apps that speak.
+Software architect in Kochi, India. I design and build backend, cloud and AI systems, and I founded **[RedZoc](https://www.redzoc.com)**, which makes apps that speak. I also offer [screen reader accessibility audits](https://www.rameesmuhammed.com/accessibility-audit) for websites, Android and iOS apps.
 
 ### Architecture, cloud and AI
 
